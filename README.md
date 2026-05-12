@@ -69,7 +69,7 @@ Browser AudioContext
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/voice-assistant.git
+git clone https://github.com/VishalWaghmare03/AI-Voice-Assistant.git
 cd voice-assistant
 ```
 
